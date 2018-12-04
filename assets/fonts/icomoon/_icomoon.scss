@@ -1,0 +1,69 @@
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-close:before {
+  content: "\e90a";
+}
+.icon-arrow-left:before {
+  content: "\e908";
+}
+.icon-arrow-right:before {
+  content: "\e909";
+}
+.icon-api:before {
+  content: "\e900";
+}
+.icon-edit:before {
+  content: "\e901";
+}
+.icon-debug:before {
+  content: "\e902";
+}
+.icon-scheme:before {
+  content: "\e903";
+}
+.icon-cloud:before {
+  content: "\e904";
+}
+.icon-database:before {
+  content: "\e905";
+}
+.icon-logo:before {
+  content: "\e906";
+}
+.icon-logo-small:before {
+  content: "\e907";
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-spinner7:before {
+  content: "\e980";
+}
+.icon-checkmark2:before {
+  content: "\ea11";
+}
+.icon-google-plus:before {
+  content: "\ea8b";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
